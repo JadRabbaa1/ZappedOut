@@ -1,7 +1,6 @@
 ZAPPED OUT - Experiment 4 (Messaging & Notifications)
 
-Jad Rabbaa  /  Kylie Caraway 
-OCAD University
+Jad Rabbaa  /  Kylie Caraway - OCAD University
 
 Project Description:
 Zapped Out is a “stressometer” that sends a notification to a companion of your stress level. Through squeezing a stress ball implemented into a side pocket of a backpack, the user gets immediate stress relief, while also sending a signal that illuminates a range of thunderbolts on a piece of art that can be either hung or placed on a desk.
